@@ -1,0 +1,77 @@
+page-home {
+    ion-icon {
+        font-size: 5em;
+    }
+    ion-grid.grid {
+        padding: 0px;
+    }
+    ion-card.card-md.card-md-danger {
+        padding: 2px;
+        padding-top: 38px;
+        padding-bottom: 38px; 
+        margin: 0px;
+        margin-left: 9px;
+        margin-right: 2px;
+
+    }
+    ion-card.card-md.card-md-warning {
+        padding: 2px;
+        padding-top: 38px;
+        padding-bottom: 38px; 
+        margin: 0px;
+        margin-left: 9px;
+        margin-right: 2px;
+
+    }
+    ion-card.card-md.card-md-primary {
+        padding: 2px;
+        padding-top: 38px;
+        padding-bottom: 38px; 
+        margin: 0px;
+        margin-left: 9px;
+        margin-right: 2px;
+
+    }
+    ion-card.card-md.card-md-tertiary {
+        padding: 2px;
+        padding-top: 38px;
+        padding-bottom: 38px; 
+        margin: 0px;
+        margin-left: 9px;
+        margin-right: 2px;
+
+    }
+    ion-card.card-md.card-md-secondary {
+        padding: 2px;
+        padding-top: 38px;
+        padding-bottom: 38px; 
+        margin: 0px;
+        margin-left: 9px;
+        margin-right: 2px;
+
+    }
+    ion-col.col{
+        padding: 2px;
+    }
+    :root {
+        /* Set the background of the entire app */
+        --ion-background-color: #ff3700;
+      
+        /* Set the font family of the entire app */
+        --ion-font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Roboto", sans-serif;
+      }
+      
+      /* Set text color of the entire app for iOS only */
+      .ios {
+        --ion-text-color: #000;
+      }
+      
+      /* Set text color of the entire app for Material Design only */
+      .md {
+        --ion-text-color: #222;
+      }
+     
+
+
+
+}
